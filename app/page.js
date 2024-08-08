@@ -6,7 +6,7 @@ export default function Home() {
   const [messages, setMessages] = useState([
     {
       role: 'assistant',
-      content: `Hi! I'm the Headstarter Support Agent, how can I assist you today?`,
+      content: `Hi! I'm the Customer Service Support Agent, how can I assist you today?`,
     }
   ])
   const [message, setMessage] = useState('');
